@@ -2,3 +2,51 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+
+.page-header {
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center top; 
+    background-size: cover;
+
+}
+
+.project-tagline {
+    opacity: 1.0;
+    text-shadow: 0 0 2px #000000, 0 0 4px #000000, 0 0 4px #000000;
+}
+
+.project-name {
+    font-size: 2rem;
+}
+
+.main-menu {
+
+    background-color: #159956;
+    box-shadow: 0 0 0.5rem 0 rgba(0, 0, 0, 0.3);
+    
+    ul {
+        max-width: 64rem;
+        padding: 0rem 6rem;
+        margin: 0 auto;
+        list-style-type: none;
+        overflow: hidden;
+    }
+
+  li {
+    float: left;
+    a {
+      display: block;
+      color: #EEE;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      }
+    a.active, a:hover {
+      background-color: #0A7941;
+    }
+
+
+  }
+}

@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Kleingartenverein "Zur Hoffnung" e.V. Freital
+description: Unsere Kleingartenanlage mit 130 Parzellen befindet sich im Poisental, am Südhang des Windberg, zwischen den Vereinen "Volksgesundheit" und "Sonneneck".
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-cayman
