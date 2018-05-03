@@ -4,6 +4,8 @@ title: "Wir über uns"
 main_weight: 1
 ---
 
+![xx](assets/images/mohn.jpg)
+
 Die Kleingartenanlage "Zur Hoffnung" wurde am 20.Oktober 1946 gegründet. 
 
 Es sind 130 Parzellen vorhanden.
@@ -19,3 +21,7 @@ Siehe im Link "Vereinshaus"
 Es bietet Platz, je nach Bestuhlung, für maximal 80 Personen,
 
 Für Versammlungen, Veranstaltungen und private Feiern unserer Pächter und der Gäste.
+
+
+
+<img style="float: none" src="assets/images/garten.jpg"><img style="float: none" src="assets/images/mohn.jpg"><img style="float: none" src="assets/images/mohn.jpg"> 
