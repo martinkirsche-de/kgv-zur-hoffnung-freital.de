@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Vereinshaus"
+title: Vereinshaus
 main_weight: 1
 ---
 

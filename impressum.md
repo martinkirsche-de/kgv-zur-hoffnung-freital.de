@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Impressum"
+title: Impressum
 main_weight: 99
 ---
 

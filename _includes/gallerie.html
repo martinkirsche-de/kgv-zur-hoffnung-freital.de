@@ -1,0 +1,28 @@
+{% if include.tag %}
+{% assign gallerie = site.gallerie | where_exp:"item", "item.id contains include.tag" %}
+{% else %}
+{% assign gallerie = site.gallerie %}
+{% endif %}
+
+<ul style="
+padding: 0;
+margin: 0;
+list-style: none;
+-ms-box-orient: horizontal;
+display: -webkit-box;
+display: -moz-box;
+display: -ms-flexbox;
+display: -moz-flex;
+display: -webkit-flex;
+display: flex;
+-webkit-flex-wrap: wrap;
+flex-wrap: wrap;">
+{% for bild in gallerie %}
+<li style="width:30%;">
+<img src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md' }}.jpg" style="float:none; width: 100%; margin: 0.5 rem">
+{% if bild.content %}
+{{ bild.content }}
+{% endif %}
+</li>
+{% endfor %}
+</ul>

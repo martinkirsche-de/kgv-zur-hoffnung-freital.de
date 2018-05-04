@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Wir über uns"
+title: Wir über uns
 main_weight: 1
 ---
 
