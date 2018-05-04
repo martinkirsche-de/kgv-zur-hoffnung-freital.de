@@ -1,0 +1,37 @@
+---
+layout: default
+title: "Freie Gärten"
+main_weight: 1
+---
+
+Bei der Auswahl eines Gartens beachten Sie bitte: Ein Kleingarten ist kein Wochenend-grundstück im herkömmlichen Sinn. 
+
+- Für Obst- und Gemüseanbau ist mindestens ein Drittel der Gartenfläche vorzusehen.
+- Die Gartenlaube darf nicht zum dauerhaften Wohnen genutzt werden.
+- Die Gartenlaube darf mit überdachtem Freisitz maximal 24 m² betragen.
+- Die befestigten Wege sollten 10% der gesamten Gartenfläche nicht überschreiten.
+- Jeder Pächter leistet 6 Stunden gemeinnützige Arbeit pro Jahr.
+
+Die Vergabe eines Gartens erfolgt ausschließlich über den Kleingartenverein. Ein Verkauf durch den Pächter ist nicht zulässig, da der Pächter den Kleingarten nur vom Verein gepachtet hat.
+
+Wer seinen Garten verkaufen will und einen Käufer hat, meldet den Namen an den Ansprechpartner im Verein. Dieser entscheidet über den Abschluss eines Pachtvertrages, erst danach wird der Kaufvertrag abgeschlossen.
+
+Wichtig ist auch die Einhaltung der Ruhezeiten: 
+
+Wochentags
+: abends ab 20 Uhr,
+
+Samstags
+: von 13 bis 15 Uhr und abends ab 18 Uhr
+
+Sonn-und Feiertagen
+: ganztägig
+
+
+Wasser- und Elektroanschluss in allen Gärten vorhanden.
+
+## Freie Gärten
+
+Folgende Gärten sind momentan zu vergeben:
+
+{% include gaerten.html nur_freie_gaerten=true %}

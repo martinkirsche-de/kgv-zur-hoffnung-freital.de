@@ -3,3 +3,5 @@ description: Unsere Kleingartenanlage mit 130 Parzellen befindet sich im Poisent
 show_downloads: false
 google_analytics: false
 theme: jekyll-theme-cayman
+collections:
+- gaerten

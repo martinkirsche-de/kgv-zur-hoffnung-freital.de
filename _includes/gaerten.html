@@ -1,0 +1,30 @@
+{% if include.nur_freie_gaerten %}
+{% assign gaerten = site.gaerten | where:'frei', true %}
+{% else %}
+{% assign gaerten = site.gaerten %}
+{% endif %}
+
+{% for garten in gaerten | sort: 'nummer' %}
+<div style="display: inline-block; width: 100%">
+<hr>
+<h3>Garten Nummer {{ garten.nummer }} mit {{ garten.groesse }} m² {% if garten.lage %}im {{ garten.lage }}{% endif %}</h3>
+
+<img src="gaerten/{{ garten.nummer }}.jpg" style="width: 40%;">
+{{ garten.content }}
+
+<h4>Ansprechpartner</h4>
+{% for ansprechpartner_name in garten.ansprechpartner %}
+{% assign ansprechprtner = site.data.ansprechpartner[ansprechpartner_name] %}
+<ul>
+<li>{{ ansprechpartner_name }}
+
+{% if ansprechprtner.telefon or ansprechprtner.email %}
+({{ ansprechprtner.telefon | join: ', ' }}{% if ansprechprtner.telefon or ansprechprtner.email %}, {% endif %}
+{% if ansprechprtner.email %}
+<a href="mailto:{{ ansprechprtner.email }}">{{ ansprechprtner.email }}</a>{% endif %}){% endif %}
+
+</li>
+</ul>
+{% endfor %}
+</div>
+{% endfor %}
