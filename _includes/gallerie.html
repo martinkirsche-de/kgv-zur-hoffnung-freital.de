@@ -21,7 +21,7 @@ flex-wrap: wrap;
 {% for bild in gallerie %}
 <li>
 
-<img src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md' }}.jpg" >
+<img src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: site.baseurl }}.jpg" >
 
 {% if bild.content %}
 <div style="  ">
