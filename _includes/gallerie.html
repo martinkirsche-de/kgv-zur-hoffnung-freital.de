@@ -4,25 +4,31 @@
 {% assign gallerie = site.gallerie %}
 {% endif %}
 
-<ul style="
-padding: 0;
+<style>
+  .gallery {
+    padding: 0;
 margin: 0;
 list-style: none;
--ms-box-orient: horizontal;
-display: -webkit-box;
-display: -moz-box;
-display: -ms-flexbox;
-display: -moz-flex;
-display: -webkit-flex;
-display: flex;
--webkit-flex-wrap: wrap;
-flex-wrap: wrap;">
+display: inline-flex;
+flex-wrap: wrap;
+  }
+  .gallery li { font-size: .9rem; padding: 0.5rem}
+  .gallery li img { float:none; height:10rem; margin: 0.0rem; }
+  .gallery li div { width:14rem; }
+</style>
+
+<ul  class="gallery">
 {% for bild in gallerie %}
-<li style="width:30%;">
-<img src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md' }}.jpg" style="float:none; width: 100%; margin: 0.5 rem">
+<li>
+
+<img src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md' }}.jpg" >
+
 {% if bild.content %}
+<div style="  ">
 {{ bild.content }}
+</div>
 {% endif %}
+
 </li>
 {% endfor %}
 </ul>
