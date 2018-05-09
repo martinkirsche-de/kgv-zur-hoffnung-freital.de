@@ -17,6 +17,23 @@ flex-wrap: wrap;
   .gallery li div { width:14rem; }
 </style>
 
+{% for file in site.documents %}
+  {% assign crumbs = file.path | split: "/" %}
+
+  {% if crumbs.first == "_gallerie" and file.path contains include.tag %}
+  {% if file.extname == ".jpg" or file.extname == ".png" %}
+
+{% assign md_path = file.path | split: file.extname | join: file.extname | append: ".md" %}
+
+ {% assign existing = gallerie | where_exp:"item", "item.path == md_path " %}
+ {% unless existing.first %}
+ {% assign gallerie = gallerie | push: file %}
+ {% endunless%}
+
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
 <ul  class="gallery">
 {% for bild in gallerie %}
   <li>
@@ -26,7 +43,11 @@ flex-wrap: wrap;
 {% assign css_width = bild.width | times: 10.0 |divided_by: bild.height%}
 {% endif %}
 
-    x<img {% if css_width %}style="width: {{ css_width }}rem;"{% endif %} src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: '' }}.jpg" >
+    {% if bild.ext %}
+    <img {% if css_width %}style="width: {{ css_width }}rem;"{% endif %} src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: site.baseurl }}.jpg" >
+    {% else %}
+    <img src="{{ bild.path  | replace_first: '_','/' | prepend: site.baseurl }}" >
+    {% endif %}
 {% assign description = bild.content| strip| strip_newlines %}
 {% unless description == "" %}
     <div {% if css_width %}style="width: {{ css_width }}rem;"{% endif %}>{{ description  }}</div>
