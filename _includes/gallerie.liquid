@@ -41,17 +41,17 @@ flex-wrap: wrap;
 
 
 {% if bild.width and bild.height %}
-{% assign css_width = bild.width | times: 10.0 |divided_by: bild.height%}
+{% assign css_width = bild.width | times: 10.0 |divided_by: bild.height %}
 {% endif %}
 
     {% if bild.ext %}
-    <img {% if css_width %}style="width: {{ css_width }}rem;"{% endif %} src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: site.baseurl }}.jpg" >
+    <img {% if bild.width and bild.height %}style="width: {{ css_width }}rem;"{% endif %} src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: site.baseurl }}.jpg" >
     {% else %}
     <img src="{{ bild.path  | replace_first: '_','/' | prepend: site.baseurl }}" >
     {% endif %}
 {% assign description = bild.content| strip| strip_newlines %}
 {% unless description == "" %}
-    <div {% if css_width %}style="width: {{ css_width }}rem;"{% endif %}>{{ description  }}</div>
+    <div {% if bild.width and bild.height %}style="width: {{ css_width }}rem;"{% endif %}>{{ description  }}</div>
 {% endunless %}
 
   </li>
