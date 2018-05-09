@@ -26,7 +26,7 @@ flex-wrap: wrap;
 {% assign css_width = bild.width | times: 10.0 |divided_by: bild.height%}
 {% endif %}
 
-    <img {% if css_width %}style="width: {{ css_width }}rem;"{% endif %} src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: site.baseurl }}.jpg" >
+    x<img {% if css_width %}style="width: {{ css_width }}rem;"{% endif %} src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: '' }}.jpg" >
 {% assign description = bild.content| strip| strip_newlines %}
 {% unless description == "" %}
     <div {% if css_width %}style="width: {{ css_width }}rem;"{% endif %}>{{ description  }}</div>
