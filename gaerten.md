@@ -4,10 +4,10 @@ title: Gärten
 main_weight: 1
 ---
 
-![Sparten Übersicht](assets/images/sparte-uebersicht.jpg)
+![Sparten Übersicht](/assets/images/sparte-uebersicht.jpg)
 
-So präsentieren sich die KGV "Volksgesundheit", "Zur Hoffnung" und "Sonneneck" (von links)
+So präsentieren sich die KGV "Volksgesundheit", "Zur Hoffnung" und "Sonneneck" (von links).
 
+Trotz Hanglage und steinigem Boden entstehen durch den Fleiß der Pächter gut bewirtschaftete Gärten.
 
-
-{% for garten in site.gaerten %}<img src="gaerten/{{ garten.nummer }}.jpg" alt="Garten Nummer {{ garten.nummer }}" style="float: none; width: 30%; margin: 0.1rem;">{% endfor %}
+{% include gallerie.liquid tag="gaerten" %}
