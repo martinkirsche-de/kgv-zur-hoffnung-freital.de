@@ -6,7 +6,7 @@ main_weight: 1
 
 ## Vorgeschichte
 
-{% include gallerie.html tag="vorgeschichte" %}
+{% include gallerie.liquid tag="vorgeschichte" %}
 
 1940 wurden die Flächen noch landwirtschaftlich genutzt. Am 16.01.1946 musste der Eigentümer, Familie Boxberg, ihren Besitz verlassen, da der Baron von Burgk durch die Bodenreform 1945 enteignet worden war.
 
@@ -18,7 +18,7 @@ Am 20. Oktober 1946 wurde unser Gartenverein gegründet.
 
 ## Die ersten Jahre des Kleingärtnervereins
 
-{% include gallerie.html tag="ersten-jahre" %}
+{% include gallerie.liquid tag="ersten-jahre" %}
 
 Es begann eine wilde Bewirtschaftung, die Gärten wurden nach Belieben ausgesucht. Es waren die ehemaligen Felder der Bauern: Nichter, Grübler, Hammer, Albrecht und Baumgart aus Niederhäslich.
 

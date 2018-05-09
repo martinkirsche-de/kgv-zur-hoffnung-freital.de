@@ -9,7 +9,7 @@
 <hr>
 <h3>Garten Nummer {{ garten.nummer }} mit {{ garten.groesse }} m² {% if garten.lage %}im {{ garten.lage }}{% endif %}</h3>
 
-<img src="gaerten/{{ garten.nummer }}.jpg" style="width: 40%;">
+<img src="{{ site.baseurl}}/gaerten/{{ garten.nummer }}.jpg" style="width: 40%;">
 {{ garten.content }}
 
 <h4>Ansprechpartner</h4>

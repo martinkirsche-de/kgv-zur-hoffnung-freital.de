@@ -19,16 +19,19 @@ flex-wrap: wrap;
 
 <ul  class="gallery">
 {% for bild in gallerie %}
-<li>
+  <li>
 
-<img src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: site.baseurl }}.jpg" >
 
-{% if bild.content %}
-<div style="  ">
-{{ bild.content }}
-</div>
+{% if bild.width and bild.height %}
+{% assign css_width = bild.width | times: 10.0 |divided_by: bild.height%}
 {% endif %}
 
-</li>
+    <img {% if css_width %}style="width: {{ css_width }}rem;"{% endif %} src="{{ bild.path | replace_first: '_','/' | split: '.md' | join: '.md'| prepend: site.baseurl }}.jpg" >
+{% assign description = bild.content| strip| strip_newlines %}
+{% unless description == "" %}
+    <div {% if css_width %}style="width: {{ css_width }}rem;"{% endif %}>{{ description  }}</div>
+{% endunless %}
+
+  </li>
 {% endfor %}
 </ul>
