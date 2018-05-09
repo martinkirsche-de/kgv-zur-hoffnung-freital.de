@@ -35,6 +35,7 @@ flex-wrap: wrap;
 {% endfor %}
 
 <ul  class="gallery">
+{% assign gallerie = gallerie | sort: "weight" %}
 {% for bild in gallerie %}
   <li>
 
