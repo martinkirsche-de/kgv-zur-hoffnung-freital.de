@@ -1,7 +1,23 @@
 ---
 layout: default
-title: Home
+title: Wir über uns
 main_weight: -1
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Test
+![Mohnblume](/assets/images/mohn.jpg)
+
+Die Kleingartenanlage "Zur Hoffnung" wurde am 20.Oktober 1946 gegründet.
+
+Es sind 130 Parzellen vorhanden.
+
+In unserem Vorstand arbeiten 9 Gartenfreundinnen und Gartenfreunde mit.
+
+Kulturelle Veranstaltungen organisiert der Club in Abstimmung mit dem Vorstand und dem Heimbeirat.
+
+Unser Vereinshaus vermieten wir gern zu annehmbaren Preisen.
+
+Siehe im Link "Vereinshaus"
+
+Es bietet Platz, je nach Bestuhlung, für maximal 80 Personen,
+
+Für Versammlungen, Veranstaltungen und private Feiern unserer Pächter und der Gäste.
