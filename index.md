@@ -20,4 +20,4 @@ Siehe im Link "Vereinshaus"
 
 Es bietet Platz, je nach Bestuhlung, für maximal 80 Personen,
 
-Für Versammlungen, Veranstaltungen und private Feiern unserer Pächter und der Gäste.
+Für Versammlungen, Veranstaltungen und private Feiern unserer Pächter und deren Gäste.
