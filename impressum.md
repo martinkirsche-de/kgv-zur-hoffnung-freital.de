@@ -32,7 +32,7 @@ Bankverbindung
   BIC OSDDDDE81XXX
 
 Webmaster
-: Peter Prange ([peter1prange@web.de](mailto:peter1prange@web.de))
+: Peter Prange ([peter1prange@web.de](mailto:prprange@gmail.com))
 
 Zur Werbung
 : Die aus der Werbung auf www.kgv-zur-hoffnung-freital.de erzielten Einnahmen gehen zu Gunsten des Vereins in die Vereinskasse ein.
