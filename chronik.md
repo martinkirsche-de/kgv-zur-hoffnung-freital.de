@@ -123,7 +123,7 @@ Von 1987 bis 1991 wurde mit dem Küchenanbau das Haus erweitert. Damit war es m�
 
 Kultur wurde groß geschrieben, zeitweise war das Haus auch bewirtschaftet.
 
-{% include gallerie.liquid tag="chronik/vereinshaus" %}
+{% include gallerie.liquid tag="chronik/haus" %}
 
  
 
