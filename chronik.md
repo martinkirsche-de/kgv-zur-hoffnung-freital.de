@@ -119,4 +119,56 @@ Nun konnten Versammlungen, Tanzveranstaltungen, Fachvorträge und anderes hier s
 Von 1987 bis 1991 wurde mit dem Küchenanbau das Haus erweitert. Damit war es möglich, Nahrungsmittel zu lagern oder für Veranstaltungen das Imbissangebot vorzubereiten.
 
 
+## Das Vereinshaus war nun das Zentrum für den Gartenverein
 
+Kultur wurde groß geschrieben, zeitweise war das Haus auch bewirtschaftet.
+
+{% include gallerie.liquid tag="chronik/vereinshaus" %}
+
+ 
+
+### Unser Gartenfreund Joachim Schönborn erinnert sich:
+
+Zum 30. Jahrestag der DDR haben wir aus meinem Betrieb, dem Funkgehäusewerk Hainsberg, eine Musikkapelle hier gehabt. Die Instrumente wurden mit dem H 3A angefahren. Die Windbergstraße war zu schmal, nur mit Mühe kamen wir den Berg hoch. Als alle Instrumente da waren, begann die Musik. 22:00 Uhr fing es an zu regnen und es wurde immer schlimmer. Da sind wir ins Vereinshaus rein. Das war ein Trubel, da konnte keiner mehr stehen, geschweige denn tanzen. Unser Vorsitzender ist bald geplatzt vor Wut, so was vertrug er nicht.
+
+Verschiene Kapellen sorgten für Unterhaltung, bis dann Anfang der 80er Jahre Harry und Andreas Voigt als Hausdisco für Stimmung sorgten. Das ist bis heute so geblieben.
+
+
+
+## Die Elektrifizierung
+
+{% include gallerie.liquid tag="chronik/elektrifizierung" %}
+
+1979/80 begann eine Gruppe unter der Leitung von Armin Hönicke mit der Installation einer Elektroversorgung für die Pächter, die Strom in ihren Gärten haben wollten. Nun konnte zumindest Kaffee gekocht oder die Hecke mit der "Multimax"-Heckenschere geschnitten werden.
+
+Nach 1990 wuchs der Strombedarf rasant an, die alte Installation reicht für viele neue elektrische Gartengeräte nicht mehr aus.
+
+3 Jahre dauerte die Rekonstruktion, unsere Pächter investierten ca. 50.000 Euro und ab Dezember 2002 waren alle Gärten am neuen Netz. Koordinator der Maßnahme war unser damaliger Vorsitzender, Theodor Pysarczuk.
+
+Danach haben wir die Elektro-Heizung im Vereinshaus modernisiert, den Innenraum des Hauses mit Holz verkleidet, später kamen neue Fenster und eine neue Eingangstür hinzu.
+
+### Die Arbeit in den Gärten
+
+{% include gallerie.liquid tag="chronik/arbeit" %}
+
+In den Jahren haben sich die Pächter Gärten geschaffen, um Obst, Gemüse, Beeren und Blumen zu ernten und um sich an der frischen Luft zu erholen. Kleine Gärten wurden zusammengelegt. Man pflanzte im Gewächshaus, auf Frühbeeten, Hochbeeten oder legte kleine Teiche an. Holzlauben wurden vergrößert.
+
+Auch wenn in der DDR Baumaterial Mangelware war, sind Gartenhäuser in Festbauweise entstanden, zum Teil mit höherem Komfort.
+
+Zur Gemüseernte in dieser Zeit führte jeder eine "Ökonomische Leistungskarte". Alles wurde registriert, galt es doch den Eigenbedarf mit frischem Obst und Gemüse zu bereichern und Ergebnisse an den Vorstand abzurechnen.
+
+Gfr. Schönborn registrierte in einem Heft die Ausgaben für Sämereien, Pflanzgut, Dünger und Gartenpacht, rechnete die aktuellen Verkaufspreise auf dem Markt dagegen und kam nach 15 Monaten auf einen "Gewinn" von
+
+468 Mark.
+
+ 
+
+ 
+
+### Unsere Gärten nach 1990
+
+{% include gallerie.liquid tag="chronik/nach-1990" %}
+
+Nach der Wiedervereinigung ab 1990 erhielt die Einhaltung der Drittelung bei der Bewirtschaftung der Gärten eine zunehmende Bedeutung. Gemeinschaftsarbeit zählt gerade jetzt, damit die niedrige Pacht bestehen bleibt und unsere Flächen als Dauerkleingärten erhalten bleiben. Der Zusammenhalt bewährt sich bei Maßnahmen der Werterhaltung und Erneuerung aber auch bei kulturellen Vorhaben und bei unserer sozialen Verantwortung. Für unsere jungen und älteren Pächter ist die Bewegung an der Luft und ein erfülltes Hobby ungemein wohltuend. Der Club unseres Vereins ist verantwortlich für die kulturelle Arbeit. Jährlich organisiert er mit dem Heimbeirat eine Vielzahl von Veranstaltungen. Tanz in den Mai, Gartenfest, Schlachtfest und Weihnachtsveranstaltungen sind zur Tradition geworden. Der Fachberater ist aktiv in Sachen "Fachvorträge". Eine zunehmende Anzahl Pächter und Gäste nehmen diese Veranstaltungen wahr. Ab 2009 entstanden mit Unterstützung der GABS Freital Sozialgärten, deren Ernte Bedürftigen zugute kommt.
+
+Der Vereinsvorstand hat die Entwicklungskonzeption 2008 bis 2014 mit der Mitgliederversammlung zum Beschluss erhoben – Richtlinie für die Zukunft des Gartenvereins.
