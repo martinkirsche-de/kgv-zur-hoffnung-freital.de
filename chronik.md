@@ -157,9 +157,7 @@ Auch wenn in der DDR Baumaterial Mangelware war, sind Gartenhäuser in Festbauwe
 
 Zur Gemüseernte in dieser Zeit führte jeder eine "Ökonomische Leistungskarte". Alles wurde registriert, galt es doch den Eigenbedarf mit frischem Obst und Gemüse zu bereichern und Ergebnisse an den Vorstand abzurechnen.
 
-Gfr. Schönborn registrierte in einem Heft die Ausgaben für Sämereien, Pflanzgut, Dünger und Gartenpacht, rechnete die aktuellen Verkaufspreise auf dem Markt dagegen und kam nach 15 Monaten auf einen "Gewinn" von
-
-468 Mark.
+Gfr. Schönborn registrierte in einem Heft die Ausgaben für Sämereien, Pflanzgut, Dünger und Gartenpacht, rechnete die aktuellen Verkaufspreise auf dem Markt dagegen und kam nach 15 Monaten auf einen "Gewinn" von 468 Mark.
 
  
 
