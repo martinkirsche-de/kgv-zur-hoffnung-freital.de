@@ -44,3 +44,5 @@ Internet
 
 Mail
 : [info@kbw-freital.de](mailto:info@kbw-freital.de)
+
+![lageplan](/assets/images/lageplan.jpg)
