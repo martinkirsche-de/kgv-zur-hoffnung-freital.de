@@ -45,4 +45,7 @@ Internet
 Mail
 : [info@kbw-freital.de](mailto:info@kbw-freital.de)
 
+Haftungsausschluss
+: Der Haftungsausschluss ist über den folgenden Link zu erreichen: [Haftungsausschluss](https://www.disclaimer.de/disclaimer.htm?farbe=FFFFFF/000000/000000/000000)
+
 ![lageplan](/assets/images/lageplan.jpg)
