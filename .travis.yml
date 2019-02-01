@@ -17,6 +17,6 @@ branches:
 
 deploy:
   provider: script
-  script: scripts/deploy
+  script: script/deploy
   on:
     branch: gh-pages
