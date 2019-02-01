@@ -1,3 +1,4 @@
+
 #!/bin/sh
 set -e
-lftp --env-password sftp://${SFTP_USER}@${SFTP_HOST} -c "mirror --reverse --transfer-all --delete _site ${SFTP_DESTINATION}"
+lftp -u ${SFTP_USER},${LFTP_PASSWORD} sftp://${SFTP_HOST} -e "mirror --reverse --delete _site ${SFTP_DESTINATION};exit"
