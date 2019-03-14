@@ -16,7 +16,7 @@ Die Finanzierung der Veranstaltungen, die der Club des Vereins durchführt, erfo
 In der Küche können Speisen zubereitet werden. Küche und Saal können für private Feiern von jedem genutzt werden, der sich beim Club einen Termin geben lässt.
 
 
-## Arbeits- und Veranstaltungsplan für das Jahr 2018 
+## Veranstaltungsplan für das Jahr 2018 
 
 - 18\. März 2018 um 11:00 im Vereinshaus Erster Fachvortrag
 
