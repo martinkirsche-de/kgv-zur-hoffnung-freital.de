@@ -87,11 +87,11 @@ Seit Sommer 1976 entnehmen wir Wasser aus der Quelle im Windberg, dazu wurde mit
 
 ## Wasserreserve Windberg
 
-![Wasserreserve Windberg](/assets/images/wasserreserve.jpg) Das Wasser wird mit einer Tauchpumpe in einen ca. 400 m entfernten Hochbehälter gepumpt. Von da aus läuft es frei in das Rohrnetz der Gärten.
+![Wasserreserve Windberg](/assets/images/wasserreserve.jpg) Das Wasser wurde mit einer Tauchpumpe in einen ca. 400 m entfernten Hochbehälter gepumpt. Von da aus lief es frei in das Rohrnetz der Gärten.
 
-Das Trinkwasser wird aus dem öffentlichen Netz von oben im freien Fall in den Hochbehälter geleitet.
+Das Trinkwasser wurde aus dem öffentlichen Netz von oben im freien Fall in den Hochbehälter geleitet.
 
-Ein Rückfluss von Quellwasser in das Trinkwassernetz ist ausgeschlossen.
+Ein Rückfluss von Quellwasser in das Trinkwassernetz war ausgeschlossen.
 
 
 ## Die Entwicklung des Vereins in den 60er Jahren
