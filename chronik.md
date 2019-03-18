@@ -83,15 +83,17 @@ Jochen Schönborn: Wir mussten alle ein Fass mit Schwimmer anschaffen. Fass "ohn
 
 Etwa 1975 begann man, das Pumpenhaus von 1910 an der Windbergstraße wieder in die Versorgung einzubeziehen, um die Quelle im Windberg zu nutzen.
 
-Seit Sommer 1976 entnahmen wir Wasser aus der Quelle im Windberg, dazu wurde mit der Stadt Freital eine Vereinbarung getroffen, nach Bedarf wird Trinkwasser aus dem Netz entnommen. Den Hochbehälter im Garten 65 haben Siegfried Richter, Werner Franz und Erwin Petschel besorgt, die Brauerei Döhlen verkaufte ihn zum Preis von 50 Mark an uns. Von 1999 bis 2000 wechselten wir die maroden Stahlrohre der Wasserleitung gegen PE-Rohre aus. Die Leitung für die Aktion "Wasser" hatte Tom Mahler.
+Seit Sommer 1976 entnahmen wir Wasser aus der Quelle im Windberg. Dazu wurde mit der Stadt Freital eine Vereinbarung getroffen. Nach Bedarf wurde Trinkwasser aus dem Netz entnommen. Den Hochbehälter im Garten 65 haben Siegfried Richter, Werner Franz und Erwin Petschel besorgt. Die Brauerei Döhlen verkaufte ihn zum Preis von 50 Mark an uns. Von 1999 bis 2000 wechselten wir die maroden Stahlrohre der Wasserleitung gegen PE-Rohre aus. Die Leitung für die Aktion "Wasser" hatte Tom Mahler.
 
 ## Wasserreserve Windberg
 
-![Wasserreserve Windberg](/assets/images/wasserreserve.jpg) Das Wasser wurde mit einer Tauchpumpe in einen ca. 400 m entfernten Hochbehälter gepumpt. Von da aus lief es frei in das Rohrnetz der Gärten.
+![Wasserreserve Windberg](/assets/images/wasserreserve.jpg) Das Quellwasser wurde mit einer Tauchpumpe in einen ca. 400 m entfernten Hochbehälter gepumpt. Von da aus lief es frei in das Rohrnetz der Gärten.
 
 Das Trinkwasser wurde aus dem öffentlichen Netz von oben im freien Fall in den Hochbehälter geleitet.
 
 Ein Rückfluss von Quellwasser in das Trinkwassernetz war ausgeschlossen.
+
+Heute wird die Quelle nicht mehr genutzt. 
 
 
 ## Die Entwicklung des Vereins in den 60er Jahren
@@ -100,7 +102,7 @@ Gärtner haben Appetit und Durst
 
 {% include gallerie.liquid tag="chronik/60er" %}
 
-Aus Erinnerungen der Gartenfreunde Jürgen Braun und anderen ist bekannt, dass Gfr. Kurt Halfter der mit dem Verkauf von Genussmitteln im Verein begann. Er hat für die Sparte den Bierverkauf organisiert. Wenn die Fahne an seiner Laube gehisst war, war Kurt zum Verkauf im Garten. (heute Nr. 77/77a). Es gab Schokolade und gut gekühltes Bier. Das Bier kaufte er in der Brauerei Döhlen und hatte mit der Fleischerei Mehlig auf der Poisentalstraße vereinbart, alle Waren im Schlachtkühlhaus zu lagern. Auch Ilse Werner hatte in der Schneiderstube ihres Mannes einen kleinen Schankraum eingerichtet, um Anwohner und Gartenfreunde mit einem Imbissangebot zu versorgen.
+Aus Erinnerungen der Gartenfreunde Jürgen Braun und anderen ist bekannt, dass Gfr. Kurt Halfter mit dem Verkauf von Genussmitteln im Verein begann. Er organisierte den Bierverkauf für die Sparte. Wenn die Fahne an seiner Laube gehisst war, war Kurt zum Verkauf im Garten. (heute Nr. 77/77a). Es gab Schokolade und gut gekühltes Bier. Das Bier kaufte er in der Brauerei Döhlen und hatte mit der Fleischerei Mehlig auf der Poisentalstraße vereinbart, alle Waren im Schlachtkühlhaus zu lagern. Auch Ilse Werner hatte in der Schneiderstube ihres Mannes einen kleinen Schankraum eingerichtet, um Anwohner und Gartenfreunde mit einem Imbissangebot zu versorgen.
 
 Mit der Eröffnung des Vereinshauses ab Mitte 1964 konnte Kurt Halfter dann seine Waren im neuen "Heim" anbieten.
 
@@ -131,7 +133,7 @@ Kultur wurde groß geschrieben, zeitweise war das Haus auch bewirtschaftet.
 
 Zum 30. Jahrestag der DDR haben wir aus meinem Betrieb, dem Funkgehäusewerk Hainsberg, eine Musikkapelle hier gehabt. Die Instrumente wurden mit dem H 3A angefahren. Die Windbergstraße war zu schmal, nur mit Mühe kamen wir den Berg hoch. Als alle Instrumente da waren, begann die Musik. 22:00 Uhr fing es an zu regnen und es wurde immer schlimmer. Da sind wir ins Vereinshaus rein. Das war ein Trubel, da konnte keiner mehr stehen, geschweige denn tanzen. Unser Vorsitzender ist bald geplatzt vor Wut, so was vertrug er nicht.
 
-Verschiene Kapellen sorgten für Unterhaltung, bis dann Anfang der 80er Jahre Harry und Andreas Voigt als Hausdisco für Stimmung sorgten. Das ist bis heute so geblieben.
+Verschiedene Kapellen sorgten für Unterhaltung, bis dann Anfang der 80er Jahre Harry und Andreas Voigt als Hausdisco für Stimmung sorgten. Das ist bis heute so geblieben.
 
 
 
