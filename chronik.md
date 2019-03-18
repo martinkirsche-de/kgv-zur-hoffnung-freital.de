@@ -83,7 +83,7 @@ Jochen Schönborn: Wir mussten alle ein Fass mit Schwimmer anschaffen. Fass "ohn
 
 Etwa 1975 begann man, das Pumpenhaus von 1910 an der Windbergstraße wieder in die Versorgung einzubeziehen, um die Quelle im Windberg zu nutzen.
 
-Seit Sommer 1976 entnehmen wir Wasser aus der Quelle im Windberg, dazu wurde mit der Stadt Freital eine Vereinbarung getroffen, nach Bedarf wird Trinkwasser aus dem Netz entnommen. Den Hochbehälter im Garten 65 haben Siegfried Richter, Werner Franz und Erwin Petschel besorgt, die Brauerei Döhlen verkaufte ihn zum Preis von 50 Mark an uns. Von 1999 bis 2000 wechselten wir die maroden Stahlrohre der Wasserleitung gegen PE-Rohre aus. Die Leitung für die Aktion "Wasser" hatte Tom Mahler.
+Seit Sommer 1976 entnahmen wir Wasser aus der Quelle im Windberg, dazu wurde mit der Stadt Freital eine Vereinbarung getroffen, nach Bedarf wird Trinkwasser aus dem Netz entnommen. Den Hochbehälter im Garten 65 haben Siegfried Richter, Werner Franz und Erwin Petschel besorgt, die Brauerei Döhlen verkaufte ihn zum Preis von 50 Mark an uns. Von 1999 bis 2000 wechselten wir die maroden Stahlrohre der Wasserleitung gegen PE-Rohre aus. Die Leitung für die Aktion "Wasser" hatte Tom Mahler.
 
 ## Wasserreserve Windberg
 
