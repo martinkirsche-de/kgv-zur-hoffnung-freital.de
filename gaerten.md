@@ -8,6 +8,6 @@ main_weight: 1
 
 So präsentieren sich die KGV "Volksgesundheit", "Zur Hoffnung" und "Sonneneck" (von links).
 
-Trotz Hanglage und steinigem Boden entstehen durch den Fleiß der Pächter gut bewirtschaftete Gärten.
+Trotz Hanglage und teilweise steinigem Boden entstehen durch den Fleiß der Pächter gut bewirtschaftete Gärten.
 
 {% include gallerie.liquid tag="gaerten" %}

@@ -6,7 +6,7 @@ main_weight: 1
 
 Die Einsätze finden jeweils sonnabends statt. Treff ist von 8:00 bis 12:00 Uhr am Vereinshaus.
 
-Termine außerhalb der festgelegten Tage bittemit Harry Voigt (0173 3814893) vereinbaren.
+Termine außerhalb der festgelegten Tage bitte mit Harry Voigt (0173 3814893) vereinbaren.
 
 
 Teilnehmer tragen sich bitte spätestens 4 Tage vor dem Termin in eine der Listen in den Info-Kästen ein.
