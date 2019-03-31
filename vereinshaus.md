@@ -7,7 +7,7 @@ main_weight: 1
 Unser Vereinshaus ist nutzbar für unsere Pächter, aber auch für private Veranstaltungen, all derer, die hier privat feiern möchten.
 
 
-Wer die Räumlichkeiten mieten möchte, wendet sich bitte an unseren Heimwart, Herrn Harry Voigt. Erreichbar unter der Telefonnummer 0173 3814893 oder im Garten Nr. 02/03.
+Wer die Räumlichkeiten mieten möchte, wendet sich bitte an unseren Heimwart, Herrn Harry Voigt. Erreichbar unter der Telefonnummer 01520 9287882 oder im Garten Nr. 02/03.
 
 {% include gallerie.liquid tag="vereinshaus" %}
 
