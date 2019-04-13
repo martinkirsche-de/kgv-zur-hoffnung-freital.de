@@ -4,31 +4,31 @@ title: Fotogalerie
 main_weight: 3
 ---
 
-### Fachvorträge mit Frau Bartholomay
+## Fachvorträge mit Frau Bartholomay
 
 {% include gallerie.liquid tag="fotogalerie/fachvortrag" %}
 
-### Gartenbegehungen
+## Gartenbegehungen
 
 {% include gallerie.liquid tag="fotogalerie/gartenbegehung" %}
 
 
-### 70-jähriges Jubiläum
+## 70-jähriges Jubiläum
 
 {% include gallerie.liquid tag="fotogalerie/fest" %}
 
 
-### Schlachtfest
+## Schlachtfest
 
 {% include gallerie.liquid tag="fotogalerie/schlachtfest" %}
 
 
-### Lichtelabend
+## Lichtelabend
 
 {% include gallerie.liquid tag="fotogalerie/lichtelabend" %}
 
 
-### Silvesterparty
+## Silvesterparty
 
 {% include gallerie.liquid tag="fotogalerie/silvesterparty" %}
 
