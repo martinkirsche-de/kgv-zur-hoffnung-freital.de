@@ -149,7 +149,7 @@ Nach 1990 wuchs der Strombedarf rasant an, die alte Installation reicht für vie
 
 Danach haben wir die Elektro-Heizung im Vereinshaus modernisiert, den Innenraum des Hauses mit Holz verkleidet, später kamen neue Fenster und eine neue Eingangstür hinzu.
 
-### Die Arbeit in den Gärten
+## Die Arbeit in den Gärten
 
 {% include gallerie.liquid tag="chronik/arbeit" %}
 
@@ -165,7 +165,7 @@ Gfr. Schönborn registrierte in einem Heft die Ausgaben für Sämereien, Pflanzg
 
  
 
-### Unsere Gärten nach 1990
+## Unsere Gärten nach 1990
 
 {% include gallerie.liquid tag="chronik/nach-1990" %}
 
