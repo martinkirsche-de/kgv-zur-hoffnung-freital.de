@@ -13,12 +13,11 @@ Teilnehmer tragen sich bitte spätestens 4 Tage vor dem Termin in eine der Liste
 
 Wer seine Arbeitsstunden am Ende der Saison nicht geleistet hat, bezahlt diese zur Kassierung 2018 mit 15,00 € pro Stunde an den Verein.
 
-Diese Termine sind im Jahr 2018 festgelegt:
+Diese Termine sind im Jahr 2019 festgelegt:
 
-- 12\. Mai 2018
-- 26\. Mai 2018
-- 23\. Juni 2018
-- 25\. August 2018
-- 01\. September 2018
+- 25\. Mai 
+- 22\. Juni 
+- 24\. August 
+- 28\. September 
 
 {% include gallerie.liquid tag="arbeitseinsaetze" %}
