@@ -18,9 +18,6 @@ In der Küche können Speisen zubereitet werden. Küche und Saal können für pr
 
 ## Veranstaltungsplan für das Jahr 2019 
 
-- 18\. März 2018 um 11:00 im Vereinshaus Erster Fachvortrag
-
-  Thema: Gesunder Anbau von Obst und Gemüse – Hochbeete, die Alternative zum klassischen Beet mit Frau Bartholomay
 - 20\. April 10:00 im Vereinshaus Mitgliederversammlung
 - 1\. Mai 10:00 im Vereinshaus Frühschoppen 
 - 30\. Mai 10:00 im Vereinshaus Männertag mit Kesselgulasch 
