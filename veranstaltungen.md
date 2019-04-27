@@ -16,18 +16,18 @@ Die Finanzierung der Veranstaltungen, die der Club des Vereins durchführt, erfo
 In der Küche können Speisen zubereitet werden. Küche und Saal können für private Feiern von jedem genutzt werden, der sich beim Club einen Termin geben lässt.
 
 
-## Veranstaltungsplan für das Jahr 2018 
+## Veranstaltungsplan für das Jahr 2019 
 
 - 18\. März 2018 um 11:00 im Vereinshaus Erster Fachvortrag
 
   Thema: Gesunder Anbau von Obst und Gemüse – Hochbeete, die Alternative zum klassischen Beet mit Frau Bartholomay
-- 22\. April 2018 um 9:00 im Vereinshaus Jahreshauptversammlung mit Ausgabe der Kassierungsbelege
-- 1\. Mai 2018 von 10:00 bis 13:00 im Vereinshaus Frühschoppen mit Imbiss
-- 10\. Mai 2018 von 9:00 bis 14:00 im Vereinshaus Frühshoppen mit Imbiss und Kesselgulasch 
-- 14\. Juli 2018 von 15:00 bis 20:00 Familiennachmittag mit Grillen, Stockbrot und Kinderunterhaltung
-- 3\. Oktober 2018 Tag der Deutschen Einheit von 10:00 bis 13:00 im Vereinshaus Frühshoppen mit Imbiss 
-- 8\.  Dezember 2018 Lichtelabend von 15:00 bis 20:00 im Vereinshaus
-- 31\. Dezember 2018 Silvesterparty von 18:00 bis 02:00 im Vereinshaus
+- 20\. April 10:00 im Vereinshaus Mitgliederversammlung
+- 1\. Mai 10:00 im Vereinshaus Frühschoppen 
+- 30\. Mai 10:00 im Vereinshaus Männertag mit Kesselgulasch 
+- 29\. Juni 17:00 Grillabend, leckeres vom Grill
+- 3\. Oktober Tag der Deutschen Einheit 10:00 im Vereinshaus, Frühshoppen 
+- 19\. Oktober Schlachtfest 18:00 im Vereinshaus, deftiges Hausgemachtes mit Tanz 
+- 7\.  Dezember Lichtelabend 16:00 im Vereinshaus, gemeinsam Advent feiern
 
 
   
