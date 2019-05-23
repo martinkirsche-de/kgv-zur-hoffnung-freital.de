@@ -14,10 +14,8 @@ In unserem Vorstand arbeiten 9 Gartenfreundinnen und Gartenfreunde mit.
 
 Kulturelle Veranstaltungen organisiert der Club in Abstimmung mit dem Vorstand und dem Heimbeirat.
 
-Unser Vereinshaus vermieten wir gern zu annehmbaren Preisen.
+Unser Vereinshaus vermieten wir gern zu annehmbaren Preisen. Siehe im Link "Vereinshaus".
 
-Siehe im Link "Vereinshaus"
+Es bietet Platz, je nach Bestuhlung, für maximal 80 Personen, für Versammlungen, Veranstaltungen und private 
 
-Es bietet Platz, je nach Bestuhlung, für maximal 80 Personen,
-
-Für Versammlungen, Veranstaltungen und private Feiern unserer Pächter und deren Gäste.
+Feiern unserer Pächter und deren Gäste.
