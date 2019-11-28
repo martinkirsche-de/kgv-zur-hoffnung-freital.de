@@ -4,7 +4,7 @@ sudo: false
 rvm: 2.5
 
 addons:
-  ssh_known_hosts: ${SFTP_HOST}
+  ssh_known_hosts: access-5000014280.ud-webspace.de
   apt:
     packages:
     - lftp
