@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kontakt
+title: Kontakt/Downloads
 main_weight: 98
 ---
 
@@ -16,3 +16,10 @@ Vorstand
 : Vorsitzende: Jutta Ruppert (0351 6490017)
 : stellv. Vorsitzender: Peter Prange (0351 645236)
 
+Downloads
+
+: [Gartenordnung](/assets/documents/Gartenordnung 2009 mit Ergänzung 2017)
+
+: [Rahmenkleingartenordnung](/assets/documents/Rahmenkleingartenordnung 2014.pdf)
+
+: [Satzung](/assets/documents/Satzung v. 15.04.2012.pdf)
