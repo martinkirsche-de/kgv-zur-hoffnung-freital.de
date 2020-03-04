@@ -18,7 +18,7 @@ Vorstand
 
 Downloads
 
-: [Gartenordnung](/assets/documents/Gartenordnung 2009 mit Ergänzung 2017)
+: [Gartenordnung](/assets/documents/Gartenordnung 2009 mit Ergänzung 2017.pdf)
 
 : [Rahmenkleingartenordnung](/assets/documents/Rahmenkleingartenordnung 2014.pdf)
 
