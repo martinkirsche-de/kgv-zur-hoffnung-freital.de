@@ -15,7 +15,7 @@ Vorstand
 : stellv. Vorsitzender: Peter Prange (0351 645236)
 
 Schatzmeister
-: Martin Steinführer (0351 27674699)
+: Jutta Ruppert
 
 Schriftführer
 : Birgit Dörries (0351 32320788)
