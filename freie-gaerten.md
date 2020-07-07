@@ -34,6 +34,6 @@ Wasser- und Elektroanschluss in allen Gärten vorhanden.
 
 ## Freie Gärten
 
-Sie suchen einen Garten? Bitte kontaktieren Sie Peter Prange (0351 645236)
+Sie suchen einen Garten? Bitte kontaktieren Sie Peter Prange (0172 7955519), ([prprange@gmail.com](mailto:prprange@gmail.com))
 
 {% include gaerten.liquid nur_freie_gaerten=true %}
