@@ -34,7 +34,7 @@ Sonn- und Feiertagen
 : ganztägig
 
 
-Wasser- und Elektroanschluss in allen Gärten vorhanden.
+Wasser- und Elektroanschluss sind in allen Gärten vorhanden.
 
 ## Freie Gärten
 
