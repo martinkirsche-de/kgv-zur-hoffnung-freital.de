@@ -4,7 +4,11 @@ title: "Freie Gärten"
 main_weight: 1
 ---
 
-Bei der Auswahl eines Gartens beachten Sie bitte: Ein Kleingarten ist kein Wochenendgrundstück im herkömmlichen Sinn.
+## Gärten mit Ausblick
+
+In unseren Gärten können Sie einen fantastischen Ausblick genießen. Die ruhige Lage direkt am Naturschutzgebiet läd zum Entspannen ein.
+
+Folgendes ist bei der Nutzung eines Kleingartens zu beachten:
 
 - Für Obst- und Gemüseanbau ist mindestens ein Drittel der Gartenfläche vorzusehen.
 - Die Gartenlaube darf nicht zum dauerhaften Wohnen genutzt werden.

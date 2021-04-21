@@ -13,11 +13,11 @@ Teilnehmer tragen sich bitte spätestens 4 Tage vor dem Termin in eine der Liste
 
 Wer seine Arbeitsstunden am Ende der Saison nicht geleistet hat, bezahlt diese zur Kassierung 2018 mit 15,00 € pro Stunde an den Verein.
 
-Diese Termine sind im Jahr 2019 festgelegt:
+Diese Termine sind im Jahr 2021 festgelegt:
 
-- 25\. Mai 
-- 22\. Juni 
-- 24\. August 
-- 28\. September 
+- 08\. Mai 
+- 26\. Juni 
+- 03\. Juli 
+- 18\. September 
 
 {% include gallerie.liquid tag="arbeitseinsaetze" %}
