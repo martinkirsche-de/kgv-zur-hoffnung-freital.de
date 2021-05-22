@@ -5,5 +5,7 @@ google_analytics: false
 theme: jekyll-theme-cayman
 permalink: pretty
 collections:
-- gaerten
-- gallerie
+  gaerten:
+    output: true
+  gallerie:
+    output: true
