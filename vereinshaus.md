@@ -21,4 +21,4 @@ Nutzungspreise pro Vermietung:
 
 * vom 1. April bis 30. September 35,00 Euro für Pächter
 * vom 1. Oktober bis 31. März 45,00 Euro pro Pächter
-* 75,00 Euro bei Gäste-Buchungen
+* 85,00 Euro bei Gäste-Buchungen
