@@ -17,8 +17,9 @@ Diese Termine sind im Jahr 2022 festgelegt:
 
 - 07\. Mai 
 - 28\. Mai 
-- 02\. Juli 
+- 09\. Juli 
 - 06\. August
-- 24\. September 
+- 10\. September 
+- 24\. September
 
 {% include gallerie.liquid tag="arbeitseinsaetze" %}
