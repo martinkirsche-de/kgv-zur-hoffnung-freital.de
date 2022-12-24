@@ -4,10 +4,11 @@ title: Vereinshaus
 main_weight: 1
 ---
 
-Unser Vereinshaus ist nutzbar für unsere Pächter, aber auch für private Veranstaltungen, all derer, die hier privat feiern möchten.
+Unser Vereinshaus ist nutzbar für unsere Pächter.
 
 
-Wer die Räumlichkeiten mieten möchte, wendet sich bitte an unseren Heimwart, Herrn Harry Voigt. Erreichbar unter der Telefonnummer 01520 9287882 oder im Garten Nr. 02/03.
+Wer die Räumlichkeiten mieten möchte, wendet sich an Frau Jutta Ruppert: Tel. 0351 6490017
+Nutzungspreise pro Vermietung nach Anfrage.
 
 {% include gallerie.liquid tag="vereinshaus" %}
 
