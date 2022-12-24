@@ -8,12 +8,7 @@ main_weight: 2
 
 {% include gallerie.liquid tag="club/clubrat" %}
 
-Unser Clubrat
-
-Andreas Voigt, Jens Freitag, Harry Voigt, Regina Knüppel
-
-Die Finanzierung der Veranstaltungen, die der Club des Vereins durchführt, erfolgt durch die Eintrittsgelder der Teilnehmer. Das Vereinshaus ist nicht bewirtschaftet. Von April bis Oktober findet ein Getränkeverkauf statt.
-In der Küche können Speisen zubereitet werden. Küche und Saal können für private Feiern von jedem genutzt werden, der sich beim Club einen Termin geben lässt.
+Unser Club wird neu organisiert, wer Interesse hat, meldet sich bei uns.
 
 
 ## Veranstaltungsplan für das Jahr 2019 
