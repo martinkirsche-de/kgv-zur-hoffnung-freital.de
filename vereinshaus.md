@@ -17,9 +17,3 @@ Für Versammlungen, Vorträge u.a. sind ca. 80 Plätze vorhanden.
 Bei Familienfeiern und entsprechender Bestuhlung stehen 60 Plätze zur Verfügung.
 
 Das Haus hat eine Küche mit Spüle. Geschirr ist ausreichend vorhanden, Speisen kann man in der Küche vorbereiten. Getränke sind im Angebot. Das Haus ist beheizbar, die WC für Damen und Herren befinden sich außerhalb, aber in unmittelbarer Nähe.
-
-Nutzungspreise pro Vermietung:
-
-* vom 1. April bis 30. September 35,00 Euro für Pächter
-* vom 1. Oktober bis 31. März 45,00 Euro pro Pächter
-* 85,00 Euro bei Gäste-Buchungen
