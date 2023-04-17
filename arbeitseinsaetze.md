@@ -9,15 +9,13 @@ Die Einsätze finden jeweils sonnabends statt. Treff ist von 8:00 bis 12:00 Uhr 
 
 Teilnehmer tragen sich bitte spätestens 4 Tage vor dem Termin in eine der Listen in den Info-Kästen ein.
 
-Wer seine Arbeitsstunden am Ende der Saison nicht geleistet hat, bezahlt diese mit 15,00 € pro Stunde an den Verein.
+Wer seine Arbeitsstunden am Ende der Saison nicht geleistet hat, bezahlt diese mit 25,00 € pro Stunde an den Verein.
 
-Diese Termine sind im Jahr 2022 festgelegt:
+Diese Termine sind im Jahr 2023 festgelegt:
 
-- 07\. Mai 
-- 28\. Mai 
-- 09\. Juli 
-- 06\. August
-- 10\. September 
-- 24\. September
+- 20.05.
+- 24.06.
+- 16.09.
+- 21.10.
 
 {% include gallerie.liquid tag="arbeitseinsaetze" %}
