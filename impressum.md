@@ -14,8 +14,8 @@ Vorstand
 : Vorsitzende: Jutta Ruppert (0351 6490017)
 : stellv. Vorsitzender: Peter Prange (0351 645236)
 
-Schatzmeister
-: Jutta Ruppert
+Schatzmeisterin
+: Katrin Hallas
 
 Schriftführer
 : Birgit Dörries (0351 32320788)
