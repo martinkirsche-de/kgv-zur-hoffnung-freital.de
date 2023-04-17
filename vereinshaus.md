@@ -16,4 +16,4 @@ Für Versammlungen, Vorträge u.a. sind ca. 80 Plätze vorhanden.
 
 Bei Familienfeiern und entsprechender Bestuhlung stehen 60 Plätze zur Verfügung.
 
-Das Haus hat eine Küche mit Spüle. Geschirr ist ausreichend vorhanden. Das Haus ist beheizbar, die WC für Damen und Herren befinden sich außerhalb, aber in unmittelbarer Nähe.
+Das Haus hat eine Küche mit Spüle. Geschirr ist ausreichend vorhanden. Speisen und Getränke müssen selbst mitgebracht werden. Das Haus ist beheizbar, die WCs für Damen und Herren befinden sich außerhalb, aber in unmittelbarer Nähe.
