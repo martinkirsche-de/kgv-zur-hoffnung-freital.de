@@ -11,11 +11,12 @@ Teilnehmer tragen sich bitte spätestens 4 Tage vor dem Termin in eine der Liste
 
 Wer seine Arbeitsstunden am Ende der Saison nicht geleistet hat, bezahlt diese mit 25,00 € pro Stunde an den Verein.
 
-Diese Termine sind im Jahr 2023 festgelegt:
+Diese Termine sind im Jahr 2024 festgelegt:
 
-- 20.05.
-- 24.06.
-- 16.09.
-- 21.10.
+- 25.05.
+- 22.06. (Zaunbau)
+- 31.08
+- 12.10.
+- 26.10.
 
 {% include gallerie.liquid tag="arbeitseinsaetze" %}
