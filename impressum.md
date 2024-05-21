@@ -15,7 +15,7 @@ Vorstand
 : stellv. Vorsitzender: Peter Prange (0351 645236)
 
 Schatzmeisterin
-: Katrin Hallas
+: Katrin Hallas (0351 85072884)
 
 Schriftführer
 : Birgit Dörries (0351 32320788)
