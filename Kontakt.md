@@ -22,4 +22,4 @@ Downloads
 
 : [Rahmenkleingartenordnung](/assets/documents/Rahmenkleingartenordnung 2014.pdf)
 
-: [Satzung](/assets/documents/Satzung v. 15.04.2012.pdf)
+: [Unsere Satzung als Entwurf vorab](/assets/documents/Satzungsentwurf 2025 - 050 ( von KGB).docx)
