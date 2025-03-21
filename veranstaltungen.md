@@ -8,7 +8,7 @@ main_weight: 2
 
 Es gibt einen neuen Gartenclub:
 
-: [Club-Newsletter](/assets/documents/[Clubnewsletter.pdf)
+: [Club-Newsletter](/assets/documents/Clubnewsletter.pdf)
 
 
 
