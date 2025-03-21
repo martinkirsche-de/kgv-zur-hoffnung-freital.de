@@ -10,6 +10,8 @@ main_weight: 2
 
 Unser Club wird neu organisiert, wer Interesse hat, meldet sich bei uns.
 
+: [Club-Newsletter](/assets/documents/clubnewsletter.pdf)
+
 
 
 
