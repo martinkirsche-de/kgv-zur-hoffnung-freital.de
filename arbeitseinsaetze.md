@@ -34,7 +34,7 @@ Diese Termine sind im Jahr 2025 festgelegt:
 ## Im Juni 2024, zweiter Abschnitt Zaunbau am oberen Weg.
 Es wurden insgesamt 12 Zaunfelder erneuert.
 
-{% include gallerie.liquid tag="arbeitseinsaetze/zaunbau 2024" %}
+{% include gallerie.liquid tag="zaunbau" %}
 
 
 
