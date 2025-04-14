@@ -23,6 +23,6 @@ Diese Termine sind im Jahr 2025 festgelegt:
 
 
 
-##Dachreparatur, Südseite im Oktober 2022
+## Dachreparatur, Südseite im Oktober 2022
 
 {% include gallerie.liquid tag="arbeitseinsaetze/Dachreperatur 2022" %}
