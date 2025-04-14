@@ -24,3 +24,18 @@ Diese Termine sind im Jahr 2025 festgelegt:
 
 
 
+
+
+## Dachreparatur, Südseite im Oktober 2022
+
+{% include gallerie.liquid tag="dachreperatur" %}
+
+
+## Im Juni 2024, zweiter Abschnitt Zaunbau am oberen Weg.
+Es wurden insgesamt 12 Zaunfelder erneuert.
+
+{% include gallerie.liquid tag="arbeitseinsaetze/zaunbau 2024" %}
+
+
+
+
