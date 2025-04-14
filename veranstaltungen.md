@@ -18,7 +18,7 @@ Es gibt einen neuen Gartenclub:
 
 ## Kinderfest im August 2024 
 
-{% include gallerie.liquid tag="Veranstaltungen/Kinderfest 2024/Kinderfest 2024" %}
+{% include gallerie.liquid tag="Veranstaltungen/Kinderfest 2024/Kinderfest 24" %}
 
 
 
