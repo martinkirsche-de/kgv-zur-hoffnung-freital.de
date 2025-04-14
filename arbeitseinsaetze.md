@@ -25,7 +25,7 @@ Diese Termine sind im Jahr 2025 festgelegt:
 
 ## Dachreparatur, Südseite im Oktober 2022
 
-{% include gallerie.liquid tag="arbeitseinsaetze/Dachreperatur 2022" %}
+{% include gallerie.liquid tag="arbeitseinsaetze/dachreperatur" %}
 
 
 ## Im Juni 2024, zweiter Abschnitt Zaunbau am oberen Weg.
