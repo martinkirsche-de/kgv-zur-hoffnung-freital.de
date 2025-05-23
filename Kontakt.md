@@ -23,3 +23,5 @@ Downloads
 : [Rahmenkleingartenordnung](/assets/documents/Rahmenkleingartenordnung 2014.pdf)
 
 : [Unsere Satzung als Entwurf vorab](/assets/documents/Satzungsentwurf 2025 - 050 ( von KGB).pdf)
+
+: [Antrag zur Errichtung baulicher Anlagen](/assets/documents/Anlage 1.pdf)
