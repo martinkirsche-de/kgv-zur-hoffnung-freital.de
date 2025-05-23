@@ -27,3 +27,4 @@ Downloads
 : [Antrag zur Errichtung baulicher Anlagen](/assets/documents/Anlage 1.pdf)
 
 : [Bauordnung](/assets/documents/Bauordnung.2024.pdf)
+
