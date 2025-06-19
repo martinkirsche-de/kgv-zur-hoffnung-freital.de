@@ -7,7 +7,8 @@ main_weight: 1
 Unser Vereinshaus ist nutzbar für unsere Pächter.
 
 
-Wer die Räumlichkeiten mieten möchte, wendet sich an Ralf Petermann Tel: 0176-30409761
+Wer die Räumlichkeiten mieten möchte, wendet sich an Ralf Petermann Tel: 0176-30409761 E-Mail: rpeter1956@aol.com
+
 Nutzungspreise pro Vermietung nach Anfrage.
 
 {% include gallerie.liquid tag="vereinshaus" %}
