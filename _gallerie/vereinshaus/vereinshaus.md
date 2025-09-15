@@ -1,3 +1,3 @@
 ---
 ---
-das Vereinshaus
+Das Vereinshaus
