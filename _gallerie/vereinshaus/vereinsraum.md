@@ -1,3 +1,3 @@
 ---
 ---
-der große Vereinsraum
+Der große Vereinsraum
