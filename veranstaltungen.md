@@ -4,7 +4,11 @@ title: Veranstaltungen
 main_weight: 2
 ---
 
-## Halloween-Fest
+## Halloween-Fest November 2025
+Am 01.11.2025 findet um 16:00 im Vereinshaus ein Halloween-Fest statt.
+Kostüme sind erwünscht, aber kein Muss.
+Ab 19:00 gibt es einen Lampionumzug.
+
 {% include gallerie.liquid tag="halloween" %}
 
 
