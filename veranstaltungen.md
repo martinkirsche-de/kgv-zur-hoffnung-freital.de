@@ -4,6 +4,10 @@ title: Veranstaltungen
 main_weight: 2
 ---
 
+## Halloween-Fest
+{% include gallerie.liquid tag="halloween" %}
+
+
 ## Unser Club
 
 Es gibt einen neuen Gartenclub:
