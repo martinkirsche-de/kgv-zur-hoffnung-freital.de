@@ -11,13 +11,13 @@ Teilnehmer tragen sich bitte spätestens 4 Tage vor dem Termin in eine der Liste
 
 Wer seine Arbeitsstunden am Ende der Saison nicht geleistet hat, bezahlt diese mit 25,00 € pro Stunde an den Verein.
 
-Diese Termine sind im Jahr 2025 festgelegt:
+Diese Termine sind im Jahr 2026 festgelegt:
 
-- 05.04.
-- 14.06. 
-- 16.08
-- 18.10.
-- 25.10.
+- 11.04.
+- 08.08.
+- 16.05.
+- 24.10.
+- 13.06.
 
 {% include gallerie.liquid tag="arbeitseinsaetze" %}
 
