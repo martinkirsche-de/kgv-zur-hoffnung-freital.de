@@ -1,13 +1,12 @@
-{% include gallerie.liquid tag="Aushang Gartenfest" %}
-
-
-
-
 ---
 layout: default
 title: Wir über uns
 main_weight: -1
 ---
+
+
+{% include gallerie.liquid tag="Aushang Gartenfest" %}
+
 
 ![Mohnblume](/assets/images/mohn.jpg)
 
