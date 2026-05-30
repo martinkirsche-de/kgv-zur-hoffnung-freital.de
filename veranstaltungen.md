@@ -3,6 +3,8 @@ layout: default
 title: Veranstaltungen
 main_weight: 2
 ---
+## Gartenfest 80. Jubiläum
+Vom 26.06. 16:00 bis 28.06. 10:00 findet unser Gartenfest statt. Es gibt Live Musik, Spiele, Bastel- und Mitmachaktionen, Fotowettbewerb und Versteigerung, Kreative Showeinlagen, Mittagsverpflegung, Kaffe und Kuchen und ein kulinarisches Imbissangebot zum Abend.
 
 {% include gallerie.liquid tag="Aushang Gartenfest" %}
 
