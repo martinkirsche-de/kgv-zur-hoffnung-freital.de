@@ -1,3 +1,8 @@
+{% include gallerie.liquid tag="Aushang Gartenfest" %}
+
+
+
+
 ---
 layout: default
 title: Wir über uns
