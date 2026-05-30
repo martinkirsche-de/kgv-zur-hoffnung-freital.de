@@ -4,6 +4,9 @@ title: Veranstaltungen
 main_weight: 2
 ---
 
+{% include gallerie.liquid tag="Aushang Gartenfest" %}
+
+
 ## Halloween-Fest November 2025
 Am 01.11.25 findet ab 16:00 im Vereinshaus ein Halloween-Fest statt.
 Kostüme sind absolut erwünscht, aber kein Muss.
