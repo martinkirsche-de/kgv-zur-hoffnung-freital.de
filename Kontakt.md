@@ -4,7 +4,6 @@ title: Kontakt/Downloads
 main_weight: 98
 ---
 
-Senden Sie uns eine E-Mail an [prprange@gmail.com](mailto:prprange@gmail.com).
 
 Kontaktadresse
 : Kleingartenverein "Zur Hoffnung" e.V. Freital
@@ -14,7 +13,6 @@ Kontaktadresse
 
 Vorstand
 : Vorsitzende: Jutta Ruppert (0351 6490017)
-: stellv. Vorsitzender: Peter Prange (0351 645236)
 
 Downloads
 
