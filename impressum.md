@@ -9,16 +9,18 @@ Kontaktadresse
 : Jutta Ruppert  
   Paul-Ehrlich-Straße 14  
   01705 Freital
+  
+Gartenvergabe
+: Kathleen Roll (0172-3646273) kathleenroll@gmx.de
 
 Vorstand
 : Vorsitzende: Jutta Ruppert (0351 6490017)
-: stellv. Vorsitzender: Peter Prange (0351 645236)
+
+Elektr Verantwortlicher
+: Helmut Loos (0173-9507729) h.loos@gmx.de 
 
 Schatzmeisterin
 : Katrin Hallas (0351 85072884)
-
-Schriftführer
-: Birgit Dörries (0351 32320788)
 
 Fachberater
 : Alexander Marunke (0351 6526379)
